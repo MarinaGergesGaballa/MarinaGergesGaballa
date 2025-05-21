@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MarinaGergesGaballa
-- 👀 I’m interested in Data analysis...
+- 👀 I’m interested in Data analysis.
 - 🌱 I’m currently learning how to how to perform professional data analysis on any type of data.
 - 💞️ I’m looking to collaborate with you to create a massive database or a great dashboard that meets your needs and makes decision-making easier.
 - 📫 How to reach me ...
